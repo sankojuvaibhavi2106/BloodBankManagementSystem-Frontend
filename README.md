@@ -14,3 +14,20 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## Live Deployment
+
+**Blood Bank Management System — Frontend**
+
+Live Website: https://bloodbank-frontend-liart.vercel.app/
+
+**Technology Stack:** React.js, Spring Boot, MySQL
+
+**Features:**
+- Add new donors
+- View registered donors
+- Update donor information
+- Delete donor records
+- Cloud database integration
+
+**Deployment:** Frontend hosted on Vercel, backend hosted on Render, and MySQL database hosted on Aiven.
